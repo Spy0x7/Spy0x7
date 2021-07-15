@@ -64,7 +64,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <a href="https://www.linkedin.com/in/spy0x7/">
   <img align="left" alt="Linkedin" width="50" hight="100" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" />
  
-<a href="https://twitter.com/Spy0x7">
+<a href="https://twitter.com/Spy0x7/">
   <img align="left" alt="twitter" width="50" hight="100" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" />
  </p>
  
