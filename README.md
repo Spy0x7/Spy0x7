@@ -1,4 +1,4 @@
-# خوش آمدید 👋
+# خوش آمدید 👳
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://cdn.donmai.us/original/b8/70/b870a3599b11d7a932463f9baf6edbd0.gif">
@@ -9,9 +9,9 @@
 </br>
 
 
-# About ME 💬 :
+# About ME :
 
-### - I'm 18 years  old Security Researcher | HackerOne | BugCrowd | Infosec |Computer 
+### - I'm 18 years  old Security Researcher | HackerOne | BugCrowd "_"
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://giffiles.alphacoders.com/456/4560.gif">
 
