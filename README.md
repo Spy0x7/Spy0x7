@@ -59,7 +59,7 @@
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
 <a href="mailto:spy0x7@gmail.com">
- <img align="left" alt="Gmail" width="100" hight="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/1280px-Gmail_Icon_%282013-2020%29.svg.png" />
+ <img align="left" alt="Gmail" width="90" hight="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/1280px-Gmail_Icon_%282013-2020%29.svg.png" />
 </a>
 <a href="https://www.linkedin.com/in/spy0x7/">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" />
