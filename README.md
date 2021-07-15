@@ -59,15 +59,15 @@
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
 <a href="mailto:spy0x7@gmail.com">
- <img align="left" alt="Gmail" width="90" hight="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/1280px-Gmail_Icon_%282013-2020%29.svg.png" />
+ <img align="left" alt="Gmail" width="70" hight="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/1280px-Gmail_Icon_%282013-2020%29.svg.png" />
 </a>
 <a href="https://www.linkedin.com/in/spy0x7/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" />
+  <img align="left" alt="Linkedin" width="70" hight="100" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" />
 </br>
 </br>
 </br>
 <a href="https://twitter.com/Spy0x7">
-  <img align="left" alt="twitter" width="150" hight="100" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" />
+  <img align="left" alt="twitter" width="70" hight="100" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" />
  </p>
  
 
