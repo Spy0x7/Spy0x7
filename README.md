@@ -38,7 +38,7 @@
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="120" hight="50">
+<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="100" hight="50">
 <img src="https://cdn.iconscout.com/icon/free/png-512/java-23-225999.png" alt="java"  width="100" hight="50">
 <img src="https://image.flaticon.com/icons/png/512/919/919837.png" alt="bash" width="100" hight="50">
 </p>
