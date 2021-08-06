@@ -21,10 +21,14 @@
 - ✨ Shell Scripting
 - ✨ Webapp Pentesting
 
-### - Hobbies : 
-- ✨ Gaming Addict
-- ✨ Watching Anime
-- ✨ Reading Light Novels
+## 💻 Skills:
+- Bug Bounty
+- Networking
+- Shell Scripting
+- Network Security
+- Linux
+- Web Application Penetration Testing 
+- CTF Player 
 
 </br>
 </br>
