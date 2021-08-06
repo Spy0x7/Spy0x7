@@ -16,11 +16,6 @@
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://giffiles.alphacoders.com/456/4560.gif">
 
-### - Learning :
-- ✨ Bug Bounty
-- ✨ Shell Scripting
-- ✨ Webapp Pentesting
-
 ## 💻 Skills:
 - Bug Bounty
 - Networking
